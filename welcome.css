@@ -1,0 +1,39 @@
+.header {
+    position: relative;
+    bottom: 8rem;
+}
+.sidecolor {
+    position: relative;
+    z-index: -1;
+    background-color: #CEEDDB;
+    height: 45rem;
+}
+
+.rightcolor {
+    background-color: #CEEDDB;
+}
+
+.rightimg {
+    position: relative;
+    top: 20rem;
+}
+
+nav ul a {
+    color: black;
+}
+
+nav a {
+    color: black;
+}
+
+
+.navbar-fixed {
+    z-index: 2;
+    font: black;
+    opacity: 1;
+}
+
+.succulentstext {
+    position: relative;
+    top: 6rem;
+}
