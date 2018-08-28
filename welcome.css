@@ -1,6 +1,6 @@
 .header {
     position: relative;
-    bottom: 8rem;
+    bottom: rem;
 }
 .sidecolor {
     position: relative;
@@ -11,11 +11,21 @@
 
 .rightcolor {
     background-color: #CEEDDB;
+    height: 45rem;
 }
 
 .rightimg {
     position: relative;
     top: 20rem;
+}
+
+.rightimagetwo{
+    position: relative;
+    top: 12rem;
+}
+
+.row {
+    margin-bottom: 0px;
 }
 
 nav ul a {
