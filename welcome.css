@@ -6,7 +6,7 @@
     position: relative;
     z-index: -1;
     background-color: #CEEDDB;
-    height: 45rem;
+    height: 50rem;
 }
 
 .rightcolor {
@@ -21,7 +21,7 @@
 
 .rightimagetwo{
     position: relative;
-    top: 12rem;
+    top: 16rem;
 }
 
 .row {
